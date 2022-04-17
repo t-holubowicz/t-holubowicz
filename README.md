@@ -11,6 +11,7 @@ greeter();
 - 👨‍💻 working on [???][working_project]
 - 🧠 learning [react][react]
 - 👅 languages [javascript][javascript] , [typescript][typescript] , [node][node] , [python][python] , [c][c] & [c++][cpp]
+- 💻 technologies [react][react]
 - 🛠 tools [linux][linux] , [vscode][vscode] , [git][git] & [github][github]
 
 🟥 [reddit][reddit] **|** 
