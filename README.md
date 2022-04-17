@@ -13,8 +13,8 @@ greeter();
 - 👅 languages [javascript][javascript] , [typescript][typescript] , [node][node] , [python][python] , [c][c] & [c++][cpp]
 - 🛠 tools [linux][linux] , [vscode][vscode] , [git][git] & [github][github]
 
-🐦 [twitter][twitter] **|** 
 🟥 [reddit][reddit] **|** 
+🐦 [twitter][twitter] **|** 
 📦 [npm][npm] 
 
 ---
@@ -38,8 +38,8 @@ Inspired by [federicocotogno][gh_federicocotogno] & [bradgarropy][gh_bradgarropy
 [git]: https://git-scm.com/
 [github]: https://github.com/
 
-[twitter]: https://twitter.com/tholubowicz
 [reddit]: https://www.reddit.com/u/tholubowicz
+[twitter]: https://twitter.com/tholubowicz
 [npm]: https://www.npmjs.com/~tholubowicz
 
 [gh_me]: https://github.com/t-holubowicz
