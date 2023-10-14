@@ -10,4 +10,4 @@ Someone who likes **minimalism** and **writing code**.
 
 ### Projects
 
-- [haders](github.com/t-holubowicz/haders) - ZIP bomb generator, written in Rust
+- [haders](https://github.com/t-holubowicz/haders) - ZIP bomb generator, written in Rust
